@@ -1,0 +1,9 @@
+num=int(input("enter any no. to test whether it is odd or even:")
+If (num%2)==0:
+Print ("the number is even")
+else
+Print("the provided number is odd")
+Out put
+Enter any number to test whether it is odd or even
+68
+68 is even number
